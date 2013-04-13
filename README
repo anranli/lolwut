@@ -1,1 +1,12 @@
-Author: Anran Li
+LOLWUT
+Penguin is lost in space. It travels around rainbow land looking for the right portal to take him home.
+Author: Anran Li, 2011
+
+Source: src/
+Images and Sound: img/ sound/
+Compiled files: bin/ 
+Documentation: doc/ (Javadoc)
+Run: lolwut.jar
+Other: scores.dat is created for the high scores functionality.
+
+Help? Email lianran@gmail.com
